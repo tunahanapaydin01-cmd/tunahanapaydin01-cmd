@@ -34,8 +34,8 @@
 </div>
 
 <div align="center">
-  <h1>⚡ Merhaba, Ben Tunahan!</h1>
-  <h3>Bilişim Güvenliği Öğrencisi | Siber Güvenlik Meraklısı</h3>
+  <h1>Merhaba, Ben Tunahan</h1>
+  <h3>Bilişim Güvenliği Öğrencisi</h3>
 </div>
 
 <br/>
@@ -50,7 +50,7 @@
 
 Siber güvenlik ve ağ altyapıları üzerine yoğunlaşan bir Bilişim Güvenliği öğrencisiyim. Karmaşık sistemlerin arka planda nasıl çalıştığını ve zafiyetlerin nasıl sömürülebileceğini araştırmak en büyük motivasyonum. 
 
-- 🛡️ **İlgi Alanları:** Ağ güvenliği, sızma testleri (pentest) ve donanım tabanlı güvenlik.
+- 🛡️ **İlgi Alanları:** Ağ güvenliği, sızma testleri ve donanım tabanlı güvenlik.
 - ⚙️ **Çalışmalarım:** Teorik bilgiyi pratiğe dökmek adına, mikrodenetleyiciler kullanarak Wi-Fi ağları üzerinde güvenlik ve stres testleri yapabilen donanım araçları üzerine çalışıyorum.
 - 🌍 **Gelişim:** Siber güvenlik dünyasındaki global dokümanları okuyabilmek ve uluslararası bir kariyer altyapısı kurmak için aktif olarak İngilizce öğreniyorum.
 
@@ -61,7 +61,7 @@ Siber güvenlik ve ağ altyapıları üzerine yoğunlaşan bir Bilişim Güvenli
 Aşağıdaki butonlara tıklayarak bana ulaşabilirsin:
 
 <div align="left">
-  <a href="https://linkedin.com/in/SENIN_LINKEDIN_KULLANICI_ADIN">
+  <a href="https://www.linkedin.com/in/tunahan-apayd%C4%B1n-63107b378/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
