@@ -46,17 +46,17 @@
 
 ---
 
-### 👨‍💻 Kariyer & Odak Noktam
+###  Kariyer & Odak Noktam
 
 Siber güvenlik ve ağ altyapıları üzerine yoğunlaşan bir Bilişim Güvenliği öğrencisiyim. Karmaşık sistemlerin arka planda nasıl çalıştığını ve zafiyetlerin nasıl sömürülebileceğini araştırmak en büyük motivasyonum. 
 
-- 🛡️ **İlgi Alanları:** Ağ güvenliği, sızma testleri ve donanım tabanlı güvenlik.
-- ⚙️ **Çalışmalarım:** Teorik bilgiyi pratiğe dökmek adına, mikrodenetleyiciler kullanarak Wi-Fi ağları üzerinde güvenlik ve stres testleri yapabilen donanım araçları üzerine çalışıyorum.
-- 🌍 **Gelişim:** Siber güvenlik dünyasındaki global dokümanları okuyabilmek ve uluslararası bir kariyer altyapısı kurmak için aktif olarak İngilizce öğreniyorum.
+-  **İlgi Alanları:** Ağ güvenliği, sızma testleri ve donanım tabanlı güvenlik.
+-  **Çalışmalarım:** Teorik bilgiyi pratiğe dökmek adına, mikrodenetleyiciler kullanarak Wi-Fi ağları üzerinde güvenlik ve stres testleri yapabilen donanım araçları üzerine çalışıyorum.
+-  **Gelişim:** Siber güvenlik dünyasındaki global dokümanları okuyabilmek ve uluslararası bir kariyer altyapısı kurmak için aktif olarak İngilizce öğreniyorum.
 
 ---
 
-### 📫 İletişim & Bağlantılar
+###  İletişim & Bağlantılar
 
 Aşağıdaki butonlara tıklayarak bana ulaşabilirsin:
 
